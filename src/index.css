@@ -38,3 +38,7 @@ code {
 .form-button{
   grid-column: 1 / -1;
 }
+
+.meme--image{
+  max-width: 500px;
+}
